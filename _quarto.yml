@@ -3,10 +3,24 @@ project:
 
 website:
   title: "Coro de la Facultad de Ciencias de la Universidad de Granada"
+  
   navbar:
-    logo: /img/logo-coro.png
+    background: primary
+    logo: /img/logo-coro.png 
     logo-alt: "Coro Ciencias"
-
+    tools:
+      - icon: facebook
+        href: https://facebook.com/corociencias
+      - icon: instagram
+        href: https://www.instagram.com/corocienciasugr/?igshid=YmMyMTA2M2Y%3D
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCcoFfcJkBHX8mWgOSk87Ejg/feed
+      - icon: github
+        menu:
+          - text: "Código fuente"
+            href:  https://github.com/pedritomelenas/coro-ciencias
+          - text: "Informar de un problema"
+            href:  https://github.com/pedritomelenas/coro-ciencias/issues
   sidebar: 
     style: "docked"
     footer: Hecho con [Quarto](https://quarto.org/)
