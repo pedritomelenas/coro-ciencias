@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Coro de la Facultad de Ciencias de la Universidad de Granada"
+  navbar:
+    logo: /img/logo-coro.png
+    logo-alt: "Coro Ciencias"
+
+  sidebar: 
+    style: "docked"
+    footer: Hecho con [Quarto](https://quarto.org/)
+    contents:
+      - text: "Presentación"
+        href: index.qmd
+      - href: historia.qmd
+      - href: ensayos.qmd
+
+format:
+  html:
+    language: es
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

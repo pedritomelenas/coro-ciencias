@@ -1,0 +1,19 @@
+---
+title: "Un podo de historia ..."
+lang: es
+toc: false
+---
+
+:::: {style="text-align:center;"}
+::: {.img-float}
+![Granada, junio 2018](/img/aula-magna.jpg){style="float: right; width:33%; margin: 5px;"}
+:::
+::::
+       
+El Coro de la Facultad de Ciencias nace en mayo de 2006, gracias al apoyo del entonces Decano de la Facultad, D. Enrique Hita Villaverde, interpretando su primera actuación el 28 de junio de ese mismo año, bajo la batuta de Antonio J. Mota Ávila. Tras una breve etapa de transición en los últimos meses de 2008, en la que ocupa la dirección musical Eusebio Pita Venegas, en diciembre de 2008 se incorpora su actual Director, Francisco Álvarez Díaz, que ha contribuido sensiblemente a la consolidación de la Coral como una de las formaciones polifónicas de referencia en el panorama granadino tanto dentro como fuera del ámbito universitario.
+
+Aunque su composición es muy dinámica, el coro está constituido habitualmente por unas cincuenta voces mixtas. La mayoría de sus integrantes pertenece a diversos sectores de la Facultad de Ciencias, pero la formación cuenta también con un grupo de amigos de otros centros y servicios e incluso de fuera de la Universidad, así como estudiantes de movilidad que se incorporan durante su estancia en Granada.
+
+El repertorio del coro se mueve a través de un gran abanico de épocas, estilos y autores, desde la música medieval hasta el siglo XXI, con especial énfasis en composiciones del siglo XX y XXI, abarcando hasta la fecha 330 piezas sacras o laicas interpretadas en 250 actuaciones a lo largo de sus dieciseis años de existencia. En el 2016, el coro celebró su Décimo Aniversario con (entre otras cosas) la grabación del [CD "Sounds of Science"](/index.qmd#sec-sounds-science), con la discográfica Ibs Classical.
+
+Más información acerca de los diferentes aspectos de nuestra organización se puede encontrar en Actuaciones realizadas, en Componentes y en Partituras. 

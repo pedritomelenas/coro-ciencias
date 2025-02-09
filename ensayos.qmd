@@ -1,0 +1,22 @@
+---
+title: "Ensayos"
+lang: es
+toc: false
+---
+
+Los ensayos del Coro de la Facultad de Ciencias son
+
+::: {style="text-align:center;"}
+**los jueves de 17h30 a 20h30
+en el aula de audiovisuales
+de la Facultad de Ciencias
+(encima de la fotocopiadora)**
+:::
+
+Si quieres participar, te invitamos a acudir a uno de los ensayos o ponerte en [contacto con nosotros](index.qmd#sec-contacto). Echa también un vistazo a nuestras [normas](normas.qmd) para los componentes del coro.
+
+
+::: {style="text-align:center;"}
+![Ensayo (excepcionalmente en la Sala de Claustro) del 4 de junio 2009
+](img/ensayo.jpg)
+:::
